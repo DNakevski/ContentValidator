@@ -1,0 +1,6 @@
+c:\users\dragan\documents\visual studio 2015\Projects\ContentValidator\ContentValidator\bin\Debug\ContentValidator.exe.config
+C:\Users\Dragan\documents\visual studio 2015\Projects\ContentValidator\ContentValidator\bin\Debug\ContentValidator.exe
+C:\Users\Dragan\documents\visual studio 2015\Projects\ContentValidator\ContentValidator\bin\Debug\ContentValidator.pdb
+C:\Users\Dragan\documents\visual studio 2015\Projects\ContentValidator\ContentValidator\obj\Debug\ContentValidator.csprojResolveAssemblyReference.cache
+C:\Users\Dragan\documents\visual studio 2015\Projects\ContentValidator\ContentValidator\obj\Debug\ContentValidator.exe
+C:\Users\Dragan\documents\visual studio 2015\Projects\ContentValidator\ContentValidator\obj\Debug\ContentValidator.pdb
